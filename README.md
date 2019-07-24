@@ -35,7 +35,7 @@ Mac, Androids and other platforms.
     contain the path of each wav file.
 
 ## 4. Sample.jconf
-    Path - julius/model/sample.jconf
+    Path - julius/model/Sample.jconf or julius/Sample.jconf
     
 ## 5. Run Julius with trained model on CLI
     julius -input rawfile -filelist (FILELIST) -C (Path of .jconf file from trained model) -output

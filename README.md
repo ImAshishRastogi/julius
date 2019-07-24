@@ -1,8 +1,7 @@
 # JULIUS - Contnious Speech Recongition System
 ---------------------------------------------
 
-# ABOUT :-
----------
+# ABOUT 
 "Julius" is a high-performance, small-footprint large vocabulary continuous 
 speech recognition (LVCSR) decoder software for speech-related researchers 
 and developers.The algorithm is based on 2-pass tree-trellis search, which 
@@ -14,8 +13,7 @@ The main platform is Linux and other Unix-based system, as well as Windows,
 Mac, Androids and other platforms.
 
 
-# HOW TO RUN :-
---------------
+# HOW TO RUN 
 
 ## 1. Install julius(linux)
     sudo apt-get install build-essential zlib1g-dev libsdl2-dev libasound2-dev
@@ -31,7 +29,7 @@ Mac, Androids and other platforms.
     run run_install.sh 
 ## 2. Download the Trained 
     
-    Note: to train your own model Go to Link : https://github.com/ImAshishRastogi/julScript
+    Note: to train your own model Go to Link : [train julius](https://github.com/ImAshishRastogi/julScript)
 ## 3. FILELIST
     contain the path of each wav file.
 

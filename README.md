@@ -17,7 +17,7 @@ Mac, Androids and other platforms.
 # HOW TO RUN :-
 --------------
 
-1. Install julius(linux)
+## 1. Install julius(linux)
     sudo apt-get install build-essential zlib1g-dev libsdl2-dev libasound2-dev
     sudo apt-get install julius
     or
@@ -29,16 +29,16 @@ Mac, Androids and other platforms.
     or 
     download julius-4.3.1.tar.gz and extract it
     run run_install.sh 
-2. Download the Trained 
+## 2. Download the Trained 
     
     Note: to train your own model Go to Link : https://github.com/ImAshishRastogi/julScript
-3. FILELIST
+## 3. FILELIST
     contain the path of each wav file.
 
-4. Sample.jconf
+## 4. Sample.jconf
     Path - julius/model/sample.jconf
     
-5. Run Julius with trained model on CLI
+## 5. Run Julius with trained model on CLI
 
     julius -input rawfile -filelist (FILELIST) -C (Path of .jconf file from trained model) -output
 

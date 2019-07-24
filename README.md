@@ -27,9 +27,9 @@ Mac, Androids and other platforms.
     or 
     download julius-4.3.1.tar.gz and extract it
     run run_install.sh 
-## 2. Download the Trained 
-    
-    Note: to train your own model Go to Link : [train julius](https://github.com/ImAshishRastogi/julScript)
+## 2. Download the Trained model 
+    git clone 
+    Note: To Train your own model Go to Link : https://github.com/ImAshishRastogi/julScript
 ## 3. FILELIST
     contain the path of each wav file.
 
